@@ -1,7 +1,7 @@
 # R-Basics-PowerBI
 Basic commands used in R to clean data, and transfer into a dashboard in Power BI.
 
-You can see my step by step process in cleanign the data using R in my full Project Document.
+The step by step process in cleaning the data using R is in the Word Project Document.
 
 Creating a Dashboard with the following requirements:
 
